@@ -1,1 +1,1 @@
-# Simulating-behaviour-of-a-customer-in-a-supermarket-with-a-MCMC-chain
+# Simulating behaviour of a customer in a supermarket with a MCMC-chain
